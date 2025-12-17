@@ -10,9 +10,6 @@ Projeto desenvolvido como parte do curso **Full-Stack da Rocketseat**, com foco 
 ## 🚀 Tecnologias Utilizadas
 - **HTML5**
 - **CSS3**
-- **CSS Grid**
-- **Flexbox**
-- **Variáveis CSS**
 
 ---
 
